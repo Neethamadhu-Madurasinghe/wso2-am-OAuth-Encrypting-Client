@@ -33,4 +33,8 @@ As for now this client is only tested with APIM 3.1.0.342 so it may not work wit
 #### Important: Make sure to backup your databases before running this Java client 
 
 
+### Resources
+
 [1] [https://apim.docs.wso2.com/en/3.1.0/learn/api-security/oauth2/encrypting-oauth2-tokens/#:~:text=use%20this%20key.-,Warning,-It%20is%20recommended](https://apim.docs.wso2.com/en/3.1.0/learn/api-security/oauth2/encrypting-oauth2-tokens/#:~:text=use%20this%20key.-,Warning,-It%20is%20recommended)
+
+[2] [WSO2 APIM Encryption code](https://github.com/wso2/carbon-crypto-service/blob/53f3deda87ce11fc2602992fa2df72ffaaa67ac0/components/org.wso2.carbon.crypto.provider/src/main/java/org/wso2/carbon/crypto/provider/KeyStoreBasedInternalCryptoProvider.java#L78)
