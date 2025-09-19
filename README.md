@@ -1,4 +1,4 @@
-# wso2-am-OAuth-Encrypting-Client
+# wso2-am-oauth-encryption-client
 
 This simple java client can be used to encrypting OAuth2 tokens when the product has been already running for some time. 
 This will encrypt the existing data without breaking the product's functionality 
